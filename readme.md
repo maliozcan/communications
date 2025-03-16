@@ -1,0 +1,1 @@
+This is an experimental work and includes examples of digital communications. I will continue to develop it when I have time.
