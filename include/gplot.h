@@ -6,6 +6,7 @@
 #include <vector>
 #include <sstream>
 #include <map>
+#include <array>
 
 class gplot {
 public:
